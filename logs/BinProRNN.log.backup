@@ -1,0 +1,48 @@
+[INFO] <BinProRNNTrain> ModelType: BinProRNN.
+[INFO] <BinProRNNTrain> Para: TrainNum: 25069, TestNum: 6268, TrainRate: 0.8.
+[INFO] <BinProRNNTrain> Para: EmbedDim: 9, MaxLen: 512, HidNodes: 18, HidLayers: 1.
+[INFO] <BinProRNNTrain> BatchSize: 128, LearningRate: 0.001, MaxEpoch: 30.
+[Epoch 001] loss: 0.679, train acc: 57.549%, test acc: 61.375%.
+[Epoch 002] loss: 0.619, train acc: 69.787%, test acc: 72.511%.
+[Epoch 003] loss: 0.587, train acc: 73.182%, test acc: 75.335%.
+[Epoch 004] loss: 0.571, train acc: 74.530%, test acc: 75.511%.
+[Epoch 005] loss: 0.577, train acc: 72.987%, test acc: 73.309%.
+[Epoch 006] loss: 0.566, train acc: 73.154%, test acc: 74.378%.
+[Epoch 007] loss: 0.554, train acc: 73.709%, test acc: 72.798%.
+[Epoch 008] loss: 0.545, train acc: 74.251%, test acc: 72.974%.
+[Epoch 009] loss: 0.537, train acc: 75.472%, test acc: 73.038%.
+[Epoch 010] loss: 0.53, train acc: 76.525%, test acc: 72.942%.
+[Epoch 011] loss: 0.52, train acc: 78.264%, test acc: 78.893%.
+[Epoch 012] loss: 0.508, train acc: 79.995%, test acc: 76.244%.
+[Epoch 013] loss: 0.492, train acc: 81.770%, test acc: 83.264%.
+[Epoch 014] loss: 0.474, train acc: 83.645%, test acc: 84.828%.
+[Epoch 015] loss: 0.474, train acc: 83.976%, test acc: 74.904%.
+[Epoch 016] loss: 0.49, train acc: 82.289%, test acc: 85.147%.
+[Epoch 017] loss: 0.499, train acc: 80.179%, test acc: 76.627%.
+[Epoch 018] loss: 0.484, train acc: 82.002%, test acc: 84.381%.
+[Epoch 019] loss: 0.461, train acc: 84.702%, test acc: 84.525%.
+[Epoch 020] loss: 0.519, train acc: 78.184%, test acc: 82.259%.
+[Epoch 021] loss: 0.519, train acc: 78.372%, test acc: 47.017%.
+[Epoch 022] loss: 0.79, train acc: 47.589%, test acc: 48.293%.
+[Epoch 023] loss: 0.784, train acc: 48.155%, test acc: 48.787%.
+[Epoch 024] loss: 0.782, train acc: 48.307%, test acc: 48.979%.
+[Epoch 025] loss: 0.783, train acc: 48.183%, test acc: 48.787%.
+[Epoch 026] loss: 0.782, train acc: 48.251%, test acc: 49.091%.
+[Epoch 027] loss: 0.78, train acc: 48.562%, test acc: 48.899%.
+[Epoch 028] loss: 0.781, train acc: 48.494%, test acc: 48.883%.
+[Epoch 029] loss: 0.779, train acc: 48.674%, test acc: 49.170%.
+[Epoch 030] loss: 0.78, train acc: 48.690%, test acc: 48.867%.
+[INFO] <BinProvRNNTrain> Finish training BinProvRNN model. (Best model: .//temp//model_BinProvRNN.pth)
+       -------------------------------------------
+       method           :  BinProvRNN
+       accuracy  (ACC)  :  85.147%
+       precision (P)    :  82.735%
+       recall    (R)    :  85.032%
+       F1 score  (F1)   :  0.839
+       fall-out  (FPR)  :  14.757%
+       miss rate (FNR)  :  14.968%
+       confusion matrix :      (actual)
+                           Neg         Pos
+       (predicted) Neg     2917 (TN)   426  (FN)
+                   Pos     505  (FP)   2420 (TP)
+       -------------------------------------------
