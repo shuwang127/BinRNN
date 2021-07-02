@@ -1,8 +1,10 @@
-# Description
+# PatchDB
+
+## Introduction
 
 To enable large-scale study on vulnerbility mitigation, we make our dataset PatchDB from our DSN21 paper publicly available. The dataset contains around 12K security patches and 24K non-security patches from the real world. You can find more details on the dataset in the paper.
 
-# Download Policy
+## Download Policy
 
 We hope you can find our dataset useful in your research. However, in order to prevent any misuse, we kindly ask you to fill out a [request form](reserved for google form link) to state your identity and research scope. We will verify them and then send you the download link.
 
