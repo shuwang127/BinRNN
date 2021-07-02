@@ -10,15 +10,15 @@ Please first sign in your Google account (since our request form and download li
 Then, please tell us your name, affiliation/company, institution/company email, and homepage. We will use these information for verification and may decline your request if we are not able to determine your identity. 
 Before submiting the form, you need to acknowledge that all the information you provided are correct, the dataset can only be used for non-profit purpose, and you will not share it to others without our permission.
 
-**If you find this dataset useful in your research, please consider citing:**
+**If you are using PatchDB for work that will result in a publication (thesis, dissertation, paper, journal/conference), please use the following citation:**
 
 ```bitex
 @inproceedings{wang2021patchDB, 
-title={PatchDB: A Large-Scale Security Patch Dataset}, 
-author={Wang, Xinda, Wang, Shu, Feng, Pengbin, Sun, Kun and Jajodia, Sushil}, 
-booktitle={2021 51th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)}, 
-year={2021}, 
-organization={IEEE} 
+  title={PatchDB: A Large-Scale Security Patch Dataset}, 
+  author={Wang, Xinda, Wang, Shu, Feng, Pengbin, Sun, Kun and Jajodia, Sushil}, 
+  booktitle={2021 51th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)}, 
+  year={2021}, 
+  organization={IEEE} 
 }
 ```
 
