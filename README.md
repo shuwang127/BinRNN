@@ -12,4 +12,13 @@ Before submiting the form, you need to acknowledge that all the information you 
 
 **If you find this dataset useful in your research, please consider citing:**
 
-@inproceedings{wang2021patchDB, title={PatchDB: A Large-Scale Security Patch Dataset}, author={Wang, Xinda, Wang, Shu, Feng, Pengbin, Sun, Kun and Jajodia, Sushil}, booktitle={2021 51th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)}, year={2021}, organization={IEEE} }
+```bitex
+@inproceedings{wang2021patchDB, 
+title={PatchDB: A Large-Scale Security Patch Dataset}, 
+author={Wang, Xinda, Wang, Shu, Feng, Pengbin, Sun, Kun and Jajodia, Sushil}, 
+booktitle={2021 51th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)}, 
+year={2021}, 
+organization={IEEE} 
+}
+```
+
