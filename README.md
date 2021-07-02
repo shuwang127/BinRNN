@@ -1,4 +1,4 @@
-# PatchDB
+# PatchDB: A Large-Scale Security Patch Dataset
 
 ## Introduction
 
