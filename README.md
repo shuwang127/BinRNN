@@ -57,7 +57,7 @@ or
 To download the PatchDB dataset, you must agree with the items of the succeeding Disclaimer & Download Agreement. You should carefully read the following terms before submitting the PatchDB request form.
 
 - PatchDB is constructed and cross-checked by 3 experts that work in security patch research.
-  Due to the potential misclassification led by subjective factors, the Sun Security Laboratory (SunLab) cannot guarantee a 100% accuracy for each sample in the dataset.
+  Due to the potential misclassification led by subjective factors, the Sun Security Laboratory (SunLab) cannot guarantee a 100% accuracy for samples in the dataset.
 
 - The copyright of the PatchDB dataset is owned by SunLab.
 
