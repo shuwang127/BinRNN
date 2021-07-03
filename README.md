@@ -66,6 +66,9 @@ To download the PatchDB dataset, you must agree with the items of the succeeding
 - The PatchDB dataset should not be re-selled or re-distributed. Anyone who has obtained PatchDB should not share the dataset with others without the permission from SunLab.
 
 ## Team
-![avatar](./img/gmu_logo.png)
-![avatar](./img/csis.png)
-![avatar](./img/sunlab_logo.png)
+<div  align="center">    
+    <img src="./img/gmu_logo.png" width = "250" alt="gmu" />
+    <img src="./img/csis.png" width = "150" alt="csis" />
+    <img src="./img/sunlab_logo.png" width = "300" alt="sunlab" />
+</div>
+
