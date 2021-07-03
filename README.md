@@ -66,8 +66,14 @@ To download the PatchDB dataset, you must agree with the items of the succeeding
 - The PatchDB dataset should not be re-selled or re-distributed. Anyone who has obtained PatchDB should not share the dataset with others without the permission from SunLab.
 
 ## Team
-<div  align="center">    
-    <img src="./img/csis.png" height = "150" alt="csis" />
-    <img src="./img/sunlab_logo_full.png" height = "150" alt="sunlab" />
+
+The PatchDB dataset is built by [Sun Security Laboratory](https://sunlab-gmu.github.io/) (SunLab) at [George Mason University](https://www2.gmu.edu/), Fairfax, VA. 
+
+<div align="left" display="flex">    
+    <img src="./img/sunlab_logo_full.png" height = "125" alt="sunlab" align="center" />
+    &emsp;&emsp;&emsp;&emsp;
+    <img src="./img/csis.png" height = "135" alt="csis" align="center" />
 </div>
 
+---
+Updated Data: July, 2021
