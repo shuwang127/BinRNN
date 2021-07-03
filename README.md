@@ -4,20 +4,41 @@
 
 To foster large-scale research on vulnerability mitigation and to enable a comparison of different detection approaches, we make our dataset ***PatchDB*** from our DSN21 paper publicly available. 
 
-PatchDB is a large-scale security patch dataset that contains around 12K security patches and 24K non-security patches from the real world. You can find more details on the dataset in the paper *"[PatchDB: A Large-Scale Security Patch Dataset](http://mason.gmu.edu/~swang47/papers/dsn21_PatchDB.pdf)"*.
+PatchDB is a large-scale security patch dataset that contains around 12K security patches and 24K non-security patches from the real world. 
+You can find more details on the dataset in the paper *"[PatchDB: A Large-Scale Security Patch Dataset](http://mason.gmu.edu/~swang47/papers/dsn21_PatchDB.pdf)"*.
 
 ## Download Policy
 
-We hope you can find our dataset useful in your research. However, in order to prevent any misuse, we kindly ask you to fill out a [request form](reserved for google form link) to state your identity and research scope. We will verify them and then send you the download link.
+We are happy to share PatchDB and hope you can find our dataset useful in your research. 
+However, in order to prevent any misuse, we kindly ask you to fill out a **request form** to state your identity and research scope. 
+We will verify them and then send you the download link of PatchDB dataset.
 
-Please first sign in your Google account (since our request form and download link are facilited by the Google) and use that as the valid email to recieve the form response.
-Then, please tell us your name, affiliation/company, institution/company email, and homepage. We will use these information for verification and may decline your request if we are not able to determine your identity. 
-Before submiting the form, you need to acknowledge that all the information you provided are correct, the dataset can only be used for non-profit purpose, and you will not share it to others without our permission.
+**Request Steps:**
 
-**If you are using PatchDB for work that will result in a publication (thesis, dissertation, paper, journal/conference), please use the following citation:**
+1. Please open the online request form in a browser. \
+   **PatchDB Request Form**: https://forms.gle/4CXnx9th1GcJAjC4A. \
+   (If you are unable to access the page, please contact SunLab by email.)
 
-```bitex
-@inproceedings{wang2021patchDB, 
+2. Sign into your Google account. \
+   *Since our request form and download link are facilited by Google, please use your Gmail as the valid email to recieve the form response.*
+
+3. In the request form, please include your name, affiliation, work email, homepage, and the purpose of using PatchDB. \
+   *The information is needed for verification.
+   Note that your request may be ignored if we are not able to determine your identity or affiliation.
+   We do not share your information with any third parties.*
+
+4. Acknowledge all the information you provided are correct.
+
+5. Read and acknowledge the [Disclaimer & Download Agreement](#jump) for PatchDB.
+
+6. Submit the request form. \
+   *A request receipt will be emailed to the email address you provided.
+   Once we verify your information, we will email the download link to you as soon as possible.*
+
+**If you are using PatchDB for work that will result in a publication (thesis, dissertation, paper, article), please use the following citation:**
+
+```bibtex
+@inproceedings{wang2021PatchDB, 
   title={PatchDB: A Large-Scale Security Patch Dataset}, 
   author={Wang, Xinda, Wang, Shu, Feng, Pengbin, Sun, Kun and Jajodia, Sushil}, 
   booktitle={2021 51th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)}, 
@@ -25,4 +46,19 @@ Before submiting the form, you need to acknowledge that all the information you 
   organization={IEEE} 
 }
 ```
+
+or
+
+*Xinda Wang, Shu Wang, Pengbin Feng, Kun Sun and Sushil Jajodia, "PatchDB: A Large-Scale Security Patch Dataset," 2021 51th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2021.*
+
+
+## Disclaimer & Download Agreement<span id="jump"></span>
+
+To download the PatchDB dataset, you must agree the items of succeeding Disclaimer & Download Agreement.
+
+- PatchDB is 
+
+- The copyright of PatchDB is 
+
+the dataset can only be used for non-profit purpose, and you will not share it to others without our permission.
 
