@@ -67,3 +67,5 @@ To download the PatchDB dataset, you must agree with the items of the succeeding
 
 ## Team
 ![avatar](./img/gmu_logo.png)
+![avatar](./img/csis.png)
+![avatar](./img/sunlab_logo.png)
