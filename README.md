@@ -67,8 +67,7 @@ To download the PatchDB dataset, you must agree with the items of the succeeding
 
 ## Team
 <div  align="center">    
-    <img src="./img/gmu_logo.png" width = "250" alt="gmu" />
-    <img src="./img/csis.png" width = "150" alt="csis" />
-    <img src="./img/sunlab_logo_full.png" width = "300" alt="sunlab" />
+    <img src="./img/csis.png" height = "150" alt="csis" />
+    <img src="./img/sunlab_logo_full.png" height = "150" alt="sunlab" />
 </div>
 
