@@ -76,4 +76,4 @@ The PatchDB dataset is built by [Sun Security Laboratory](https://sunlab-gmu.git
 </div>
 
 ---
-Updated Date: July, 2021
+Last Updated Date: July, 2021
