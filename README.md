@@ -1,5 +1,5 @@
 # BinRNN
-The Provenance Analysis of Binary Code.
+The Provenance Analysis of Binary Code via RNN.
 
 Usage:
 
